@@ -1,0 +1,39 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "titre": "Inception",
+      "realisateur": "Christopher Nolan",
+      "annee": 2010,
+      "genre": "Science-Fiction"
+    },
+    {
+      "id": 2,
+      "titre": "Le Seigneur des Anneaux: La Communauté de l'Anneau",
+      "realisateur": "Peter Jackson",
+      "annee": 2001,
+      "genre": "Fantaisie"
+    },
+    {
+      "id": 3,
+      "titre": "Interstellar",
+      "realisateur": "Christopher Nolan",
+      "annee": 2014,
+      "genre": "Science-Fiction"
+    },
+    {
+      "id": 4,
+      "titre": "Le Parrain",
+      "realisateur": "Francis Ford Coppola",
+      "annee": 1972,
+      "genre": "Drame"
+    },
+    {
+      "id": 5,
+      "titre": "Pulp Fiction",
+      "realisateur": "Quentin Tarantino",
+      "annee": 1994,
+      "genre": "Crime"
+    }
+  ]
+}
